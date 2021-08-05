@@ -5,6 +5,6 @@ A website that offers services for formulating and implementing marketing strate
 HTML,
 CSS
 ## Website
-http://JiliJiang.github.io/urban-octo-telegram/
+https://JiliJiang.github.io/urban-octo-telegram/
 ## Contribution
 By Jili Jiang
